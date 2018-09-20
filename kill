@@ -1,1 +1,1 @@
-docker stack rm sneks
+docker stack rm sneks_testing
